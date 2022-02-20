@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  gap: 20px;
+  padding:10px;
+
+}
+.brand_card {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border-radius: 10px;
+
+}
+.brand_logo {
+  background-color: #e6e6e6;
+  height: 100%;
+  width: 100%;
+  padding: 10px;
+}
